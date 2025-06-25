@@ -75,7 +75,7 @@ Failed: 0
 # Actual Results
 
 1. Get list of all objects
-
+![Image](https://github.com/user-attachments/assets/e37dbc20-2f9c-4a73-80bd-5cb07dd45da5)
 2. Add an object using POST
 
 3. Get a single object using the above added ID
