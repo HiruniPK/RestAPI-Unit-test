@@ -77,7 +77,7 @@ Failed: 0
 1. Get list of all objects
 ![Image](https://github.com/user-attachments/assets/e37dbc20-2f9c-4a73-80bd-5cb07dd45da5)
 2. Add an object using POST
-
+![Image](https://github.com/user-attachments/assets/9fc6612a-709b-488f-93af-8c527ef76a70)
 3. Get a single object using the above added ID
 
 4. Update the object added in Step 2
