@@ -83,3 +83,4 @@ Failed: 0
 4. Update the object added in Step 2
 ![Image](https://github.com/user-attachments/assets/89e5e56c-7fe9-45f4-be63-55a1c13b0e78)
 5. Delete the object using DELETE. 
+![Image](https://github.com/user-attachments/assets/ba2d9bb6-f614-451e-a802-f6ef95177a53)
