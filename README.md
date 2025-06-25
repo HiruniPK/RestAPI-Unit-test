@@ -81,5 +81,5 @@ Failed: 0
 3. Get a single object using the above added ID
 ![Image](https://github.com/user-attachments/assets/6f53f573-3391-4508-b381-74ce997f3c5e)
 4. Update the object added in Step 2
-
+![Image](https://github.com/user-attachments/assets/89e5e56c-7fe9-45f4-be63-55a1c13b0e78)
 5. Delete the object using DELETE. 
