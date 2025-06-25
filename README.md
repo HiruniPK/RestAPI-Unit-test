@@ -1,2 +1,2 @@
-# RestAPI Unit test
+# Rest API Test Suite – Amused Group Coding Assignment
 
